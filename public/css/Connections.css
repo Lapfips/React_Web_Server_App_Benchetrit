@@ -1,0 +1,39 @@
+.container-connections {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 600px;
+}
+
+.error {
+  color: red;
+  margin: 0.5rem 0;
+}
+
+.success {
+  color: green;
+  margin: 0.5rem 0;
+}
+
+@media (max-width: 768px) {
+  .container-connections,
+  .container-download,
+  .container-home,
+  .container-about {
+    width: 95%;
+    padding: 1rem;
+  }
+  .user-inputs input,
+  .user-actions button {
+    font-size: 0.9rem;
+  }
+  .preview-pdf iframe {
+    height: 40vmin;
+  }
+}

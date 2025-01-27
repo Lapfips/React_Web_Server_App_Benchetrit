@@ -1,0 +1,257 @@
+{
+  "English": {
+    "Home": {
+      "Title": "Home",
+      "Paragraph": "Welcome to the <companyName> devis convertor"
+    },
+    "SignIn": {
+      "Title": "Sign in",
+      "FirstName": "First name",
+      "FirstNamePlaceholder": "First name",
+      "LastName": "Last name",
+      "LastNamePlaceholder": "Last name",
+      "Email": "Email",
+      "EmailPlaceholder": "Email",
+      "Password": "Password",
+      "PasswordPlaceholder": "Password",
+      "MatchPassword": "Confirm password",
+      "MatchPasswordPlaceholder": "Confirm password",
+      "CompanyName": "Company name",
+      "CompanyNamePlaceholder": "Company name",
+      "SubmitButton": "Sign In",
+      "AlreadyRegistered": "Already registered?",
+      "LoginLink": "Login",
+      "ErrorMessage": "Error"
+    },
+    "Login": {
+      "Title": "Login",
+      "Email": "Email",
+      "EmailPlaceholder": "Email",
+      "Password": "Password",
+      "PasswordPlaceholder": "Password",
+      "SubmitButton": "Login",
+      "HasNoAccount": "You don't have an account ?",
+      "LoginLink": "Sign In",
+      "ErrorMessage": "Error"
+    },
+    "NavBar": {
+      "Home": "Home",
+      "About": "About",
+      "Convertor": "Convertor",
+      "Help": "Help ?",
+      "Login": "Login",
+      "SignIn": "Sign In"
+    },
+    "Convertor": {
+      "Title": "<CompanyName>",
+      "Subtitle": "CSV file to devis convertor :",
+      "ShowPreviewButton": "Show PDF preview",
+      "HidePreviewButton": "Hide PDF preview",
+      "DownloadButton": "Download PDF"
+    }
+  },
+  "French": {
+    "Home": {
+      "Title": "Accueil",
+      "Paragraph": "Bienvenue sur le convertisseur de devis de l'entreprise <companyName>"
+    },
+    "SignIn": {
+      "Title": "Créer un compte",
+      "FisrtName": "Prénom",
+      "FirstNamePlaceholder": "Prénom ",
+      "LastName": "Nom",
+      "LastNamePlaceholder": "Nom",
+      "Email": "Email",
+      "EmailPlaceholder": "Email",
+      "Password": "Mot de passe",
+      "PasswordPlaceholder": "Mot de passe",
+      "MatchPassword": "Confirmer le mot de passe",
+      "MatchPasswordPlaceholder": "Confirmer le mot de pass",
+      "CompanyName ": "Nom de l'entreprise",
+      "CompanyNamePlaceholder": "Nom de l'entreprise",
+      "SubmitButton": "Créer un compte",
+      "AlreadyRegistered": "Vous avez déjà un compte ?",
+      "LoginLink": "Se connecter ",
+      "ErrorMessage": "Erreur"
+    },
+    "Login": {
+      "Title": "Se connecter",
+      "Email": "Email",
+      "EmailPlaceholder": "Email",
+      "Password": "Mot de passe",
+      "PasswordPlaceholder": "Mot de passe",
+      "SubmitButton": "Se connecter",
+      "HasNoAccount": "Vous n'avez pas de compte ?",
+      "LoginLink": "Créer un compte",
+      "ErrorMessage": "Erreur"
+    },
+    "NavBar": {
+      "Home": "Accueil",
+      "About": "A propos de nous",
+      "Convertor": "Convertisseur",
+      "Help": "Besoin d'aide ?",
+      "Login": "Se connecter",
+      "SignIn": "Créer un compte"
+    },
+    "Convertor": {
+      "Title": "<CompanyName>",
+      "Subtitle": "Convertisseur de fichier CSV en devis :",
+      "ShowPreviewButton": "Voir un aperçu du PDF",
+      "HidePreviewButton": "Cacher l'aperçu du PDF",
+      "DownloadButton": "Téléchager le fichier PDF"
+    }
+  },
+  "Spanish": {
+    "Home": {
+      "Title": "",
+      "Paragraph": ""
+    },
+    "SignIn": {
+      "Title": "",
+      "FirstName": "",
+      "FirstNamePlaceholder": "",
+      "LastName": "",
+      "LastNamePlaceholder": "",
+      "Email": "",
+      "EmailPlaceholder": "",
+      "Password": "",
+      "PasswordPlaceholder": "",
+      "MatchPassword": "",
+      "MatchPasswordPlaceholder": "",
+      "CompanyName": "",
+      "CompanyNamePlaceholder": "",
+      "SubmitButton": "",
+      "AlreadyRegistered": "",
+      "LoginLink": "",
+      "ErrorMessage": ""
+    },
+    "Login": {
+      "Title": "",
+      "Email": "",
+      "EmailPlaceholder": "",
+      "Password": "",
+      "PasswordPlaceholder": "",
+      "SubmitButton": "",
+      "HasNoAccount": "",
+      "LoginLink": "",
+      "ErrorMessage": ""
+    },
+    "NavBar": {
+      "Home": "",
+      "About": "",
+      "Convertor": "",
+      "Help": "",
+      "Login": "",
+      "SignIn": ""
+    },
+    "Convertor": {
+      "Title": "<CompanyName>",
+      "Subtitle": "",
+      "ShowPreviewButton": "",
+      "HidePreviewButton": "",
+      "DownloadButton": ""
+    }
+  },
+  "German": {
+    "Home": {
+      "Title": "",
+      "Paragraph": ""
+    },
+    "SignIn": {
+      "Title": "",
+      "FirstName": "",
+      "FirstNamePlaceholder": "",
+      "LastName": "",
+      "LastNamePlaceholder": "",
+      "Email": "",
+      "EmailPlaceholder": "",
+      "Password": "",
+      "PasswordPlaceholder": "",
+      "MatchPassword": "",
+      "MatchPasswordPlaceholder": "",
+      "CompanyName": "",
+      "CompanyNamePlaceholder": "",
+      "SubmitButton": "",
+      "AlreadyRegistered": "",
+      "LoginLink": "",
+      "ErrorMessage": ""
+    },
+    "Login": {
+      "Title": "",
+      "Email": "",
+      "EmailPlaceholder": "",
+      "Password": "",
+      "PasswordPlaceholder": "",
+      "SubmitButton": "",
+      "HasNoAccount": "",
+      "LoginLink": "",
+      "ErrorMessage": ""
+    },
+    "NavBar": {
+      "Home": "",
+      "About": "",
+      "Convertor": "",
+      "Help": "",
+      "Login": "",
+      "SignIn": ""
+    },
+    "Convertor": {
+      "Title": "<CompanyName>",
+      "Subtitle": "",
+      "ShowPreviewButton": "",
+      "HidePreviewButton": "",
+      "DownloadButton": ""
+    }
+  },
+  "Chinese": {
+    "Home": {
+      "Title": "",
+      "Paragraph": ""
+    },
+    "SignIn": {
+      "Title": "",
+      "FirstName": "",
+      "FirstNamePlaceholder": "",
+      "LastName": "",
+      "LastNamePlaceholder": "",
+      "Email": "",
+      "EmailPlaceholder": "",
+      "Password": "",
+      "PasswordPlaceholder": "",
+      "MatchPassword": "",
+      "MatchPasswordPlaceholder": "",
+      "CompanyName": "",
+      "CompanyNamePlaceholder": "",
+      "SubmitButton": "",
+      "AlreadyRegistered": "",
+      "LoginLink": "",
+      "ErrorMessage": ""
+    },
+    "Login": {
+      "Title": "",
+      "Email": "",
+      "EmailPlaceholder": "",
+      "Password": "",
+      "PasswordPlaceholder": "",
+      "SubmitButton": "",
+      "HasNoAccount": "",
+      "LoginLink": "",
+      "ErrorMessage": ""
+    },
+    "NavBar": {
+      "Home": "",
+      "About": "",
+      "Convertor": "",
+      "Help": "",
+      "Login": "",
+      "SignIn": ""
+    },
+    "Convertor": {
+      "Title": "<CompanyName>",
+      "Subtitle": "",
+      "ShowPreviewButton": "",
+      "HidePreviewButton": "",
+      "DownloadButton": ""
+    }
+  }
+}

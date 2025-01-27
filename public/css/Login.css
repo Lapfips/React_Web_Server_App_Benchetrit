@@ -1,0 +1,71 @@
+.login-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-inputs label {
+  display: block;
+  margin: 0.5rem 0 0.25rem;
+  color: #333;
+}
+
+.user-inputs input,
+.user-actions button {
+  width: 100%;
+  padding: 1rem;
+  margin: 0.5rem 0;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+}
+
+#email,
+#password {
+  width: calc(100% - 2rem);
+}
+
+.user-inputs input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.user-actions button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.user-actions button:hover {
+  background-color: #0056b3;
+}
+
+.error {
+  color: red;
+  margin: 0.5rem 0;
+}
+
+.success {
+  color: green;
+  margin: 0.5rem 0;
+}
+
+@media (max-width: 768px) {
+  .container-connections,
+  .container-download,
+  .container-home,
+  .container-about {
+    width: 95%;
+    padding: 1rem;
+  }
+  .user-inputs input,
+  .user-actions button {
+    font-size: 0.9rem;
+  }
+  .preview-pdf iframe {
+    height: 40vmin;
+  }
+}

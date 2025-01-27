@@ -1,0 +1,70 @@
+.container-download {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 600px;
+}
+
+.inputs-and-buttons {
+  width: 100%;
+}
+
+.input-csv-file,
+.inputs-and-buttons button {
+  width: 100%;
+  padding: 1rem;
+  margin: 0.5rem 0;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+}
+
+.input-csv-file {
+  width: calc(100% - 2rem);
+}
+
+.inputs-and-buttons button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.inputs-and-buttons button:hover {
+  background-color: #0056b3;
+}
+
+.preview-pdf {
+  width: 85%;
+}
+
+.preview-pdf iframe {
+  border: none;
+  width: 100%;
+  height: 60vmin;
+  margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+  .container-connections,
+  .container-download,
+  .container-home,
+  .container-about {
+    width: 95%;
+    padding: 1rem;
+  }
+  .user-inputs input,
+  .user-actions button {
+    font-size: 0.9rem;
+  }
+  .preview-pdf iframe {
+    height: 40vmin;
+  }
+}

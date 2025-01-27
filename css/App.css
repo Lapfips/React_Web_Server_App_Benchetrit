@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  background-color: #2d2d2d;
+}
+
+nav a {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #ff6f61;
+}
+
+@media (max-width: 768px) {
+  .container-connections,
+  .container-download,
+  .container-home,
+  .container-about {
+    width: 95%;
+    padding: 1rem;
+  }
+  .user-inputs input,
+  .user-actions button {
+    font-size: 0.9rem;
+  }
+  .preview-pdf iframe {
+    height: 40vmin;
+  }
+}

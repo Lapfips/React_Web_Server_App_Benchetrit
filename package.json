@@ -1,0 +1,20 @@
+{
+  "name": "react-web-app-with-server",
+  "version": "1.0.0",
+  "description": "React web app with login and signin to help company user's to convert csv files to devis",
+  "license": "ISC",
+  "author": "Lapfips",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "uuid": "^11.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
