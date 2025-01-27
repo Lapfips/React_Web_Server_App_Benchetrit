@@ -1,12 +1,12 @@
 import React from "react";
 import "../css/Connections.css";
 import Login from "./Login";
-import SignIn from "./SignIn";
+import Register from "./Register";
 
 const Connections = (props) => {
   return (
     <div className="container-connections">
-      {props.showSignIn ? <SignIn /> : <Login />}
+      {props.showSignIn ? <Register /> : <Login />}
     </div>
   );
 };

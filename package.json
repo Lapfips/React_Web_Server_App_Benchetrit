@@ -8,10 +8,12 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "dev": "nodemon server"
+    "dev": "nodemon server",
+    "build": "react-scripts build"
   },
   "dependencies": {
     "date-fns": "^4.1.0",
+    "react-scripts": "^5.0.1",
     "uuid": "^11.0.5"
   },
   "devDependencies": {

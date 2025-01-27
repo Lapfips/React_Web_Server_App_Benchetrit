@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "../css/Login.css";
-import SignIn from "./SignIn";
+import Register from "./Register";
 
 const Login = () => {
   const [email, setEmail] = useState("");
@@ -28,7 +28,7 @@ const Login = () => {
       {errorMessage && <p className="error">{errorMessage}</p>}
       {successMessage && <p className="success">{successMessage}</p>}
       {showSignIn ? (
-        <SignIn />
+        <Register />
       ) : (
         <>
           <div className="user-inputs">
